@@ -1,0 +1,26 @@
+*{
+    background-color:white;
+}
+table{
+    border-collapse: collapse;
+
+}
+th{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+td{
+    background-color: rgb(167, 181, 231);
+}
+tr:nth-child(odd){
+    background-color: rgb(172, 211, 134);
+}
+td:hover{
+    background-color: brown;
+}
+th:hover{
+    background-color: blue;
+}
+table:hover{
+    
+}
